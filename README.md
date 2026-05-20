@@ -30,15 +30,7 @@
   </tr>
 </table>
 
-----
 
-## 📊 Activity Graph 
-
-<!-- tokyo night theme and by default 30 days, &days= can change do max 90 days -->
-
-[![Varshitha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=varshitha980-vvc&theme=tokyo-night&area=true&hide_border=true)](https://github.com/varshitha980-vvc)
-
----
 
 <!-- Github snake wala-->
 <div align="center">
@@ -49,9 +41,21 @@
   </picture>
 </div>
 
+<br></br>
+<!--Trophies and milestones of GitHub using API-->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=varshitha980-vvc&theme=tokyonight&margin-w=15" alt="GitHub Trophies" />
+</div>
 
 ---
 
+## 📊 Activity Graph 
+
+<!-- tokyo night theme and by default 30 days, &days= can change do max 90 days -->
+
+[![Varshitha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=varshitha980-vvc&theme=tokyo-night&area=true&hide_border=true)](https://github.com/varshitha980-vvc)
+
+---
 
 ## 🛠️ Tech Stack
 
