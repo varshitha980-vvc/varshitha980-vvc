@@ -40,6 +40,18 @@
 
 ---
 
+<!-- Github snake wala-->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varshitha980-vvc/varshitha980-vvc/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/varshitha980-vvc/varshitha980-vvc/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/varshitha980-vvc/varshitha980-vvc/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+
+---
+
 
 ## 🛠️ Tech Stack
 
@@ -69,31 +81,12 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varshitha980-vvc&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varshitha980-vvc/varshitha980-vvc/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/varshitha980-vvc/varshitha980-vvc/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/varshitha980-vvc/varshitha980-vvc/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-
----
-
-### 📫 Let's Connect!
+## Let's Connect!
 
 * **Currently:** Building projects for my **Oasis Infobyte** internship and preparing for **GSSoC '26**.
-* **Open to:** Collaborative open-source projects and interesting research discussions.
+* **Open to:** Collaborative open-source projects and Internships.
 * **Fun Fact:** I analyze code logic with the same focus I use for a chess endgame.
 
 <p align="center">
-  <b>"Small steps lead to big wins. Let's build something great together!"</b>
+  <b>"Small steps lead to big wins."</b>
 </p>
