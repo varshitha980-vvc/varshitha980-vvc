@@ -72,25 +72,19 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-
-
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=varshitha980-vvc&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varshitha980-vvc&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varshitha980-vvc/varshitha980-vvc/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/varshitha980-vvc/varshitha980-vvc/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/varshitha980-vvc/varshitha980-vvc/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<varshitha980-vvc>/<YOUR_GITHUB_USERNAME>/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<varshitha980-vvc>/<YOUR_GITHUB_USERNAME>/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/<varshitha980-vvc>/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
