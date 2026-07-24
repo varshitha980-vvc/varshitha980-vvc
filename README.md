@@ -47,19 +47,11 @@
 
 ## About Me
 
-* *Currently:*   *GSSoC '26* Contributor.
-* *Skilled in* JAVA, PYTHON, C , HTML, CSS.
+* *Currently:*  A *GSSoC '26* Contributor.
+* *Currently Learning:*  Data Structures & Algorithms, Full Stack.
+* *Skilled in:* JAVA, PYTHON, C , HTML, CSS.
 * *Open to:* Collaborative open-source projects and Internships.
 * *Fun Fact:* I analyze code logic with the same focus I use for a chess endgame.
-
-
-## About-Me
-- GSSOC'26 Contributor
-- Chess Player
-- Skilled in: Java,Python,C,HTML,CSS
-###  Currently Learning
-- Data Structures & Algort=ithms
-- Full Stack
 
 ---
 
@@ -97,3 +89,6 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+---
+
