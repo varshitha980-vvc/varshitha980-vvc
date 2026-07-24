@@ -1,96 +1,99 @@
+<!--pic-->
 <div align="center">
-  
-  <!--for fancy letters-->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=1D9E75&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+V.VARSHITHAA+%F0%9F%91%8B;GSSOC'26+Contributor;Web+Dev+Intern+%40+Oasis+Infobyte;Strategic+Thinker+%7C+Chess+Player" alt="Typing SVG"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vemuri%20Varshithaa%20Chowdary&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+</div>
+
+
+
+<!--Introduction-->
+<div align="center">
+   <!--By fancy letters-->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=1D9E75&center=true&vCenter=true&width=700&lines=GSSOC'26+Contributor;Strategic+Thinker+%7C+Chess+Player" alt="Typing SVG"/>
 
 <br/>
+</div>
 
-<!--for links of LinkedIn and Github-->
-<p>
-  <a href="https://www.linkedin.com/in/vemuri-varshithaa-chowdary-013623373/"><b>👔LinkedIn</b></a> .
-  <a href="https://github.com/varshitha980-vvc"><b>🐙GitHub </b></a> .
+<div> </div>
+
+<!--Connecting buttons-->
+<div>
+<p align="center">
+  <!--Linkedin-->
+  <br>
+  <a href="https://www.linkedin.com/in/vemuri-varshithaa-chowdary-013623373/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <!--Github-->
+  <a href="ttps://github.com/varshitha980-vvc" target="_blank">
+     <img src="https://img.shields.io/badge/github-%23121011?style=for-the-badge&logo=GitHub&logoColor=white" />
+  </a>
 </p>
 </div>
 
-<!--About Me-->
-<table border="0" align="center">
-  <tr>
-   <td width="50%" valign="top">
-    <h2>🤵 About Me:</h2>
-    <ul>
-      <li>🎓 <b>B.Tech CSE Student </b></li>
-      <li>🚀 Currently at<b> Web Development Intern @ Oasis Infobyte</b></li>
-      <li>🌟 <b>Open Source Contributor @GSSoC'26</b></li>
-      <li>|🔬 Research<b>ML for Website Detection & Seismic Classification</b></li>
-    </ul>
-   </td>
-       <td width="55%" valign="top" align="right">
-      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/varshitha980-vvc?theme=tokyonight&rank=true" width="100%" />
-    </td>
-  </tr>
-</table>
 
-
-
-<!-- Github snake wala-->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varshitha980-vvc/varshitha980-vvc/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/varshitha980-vvc/varshitha980-vvc/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/varshitha980-vvc/varshitha980-vvc/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
+## 🏆 Coding Profiles
 <br></br>
-<!--Trophies and milestones of GitHub using API-->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=varshitha980-vvc&theme=tokyonight&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://leetcard.jacoblin.cool/vvarshithaa10?theme=dark&font=Fira%20Code&ext=heatmap" height="1190" alt="LeetCode Stats" />
+  
+<br></br>
+ <a href="https://www.geeksforgeeks.org/profile/vvarshitha">
+  <img src="https://gfgstatscard.vercel.app/vvarshitha?theme=dark" height="1190" alt="GeeksforGeeks Stats" />
+</a>
 </div>
 
 ---
 
-## 📊 Activity Graph 
 
-<!-- tokyo night theme and by default 30 days, &days= can change do max 90 days -->
+## About Me
 
-[![Varshitha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=varshitha980-vvc&theme=tokyo-night&area=true&hide_border=true)](https://github.com/varshitha980-vvc)
+* *Currently:*   *GSSoC '26* Contributor.
+* *Skilled in* JAVA, PYTHON, C , HTML, CSS.
+* *Open to:* Collaborative open-source projects and Internships.
+* *Fun Fact:* I analyze code logic with the same focus I use for a chess endgame.
+
+
+## About-Me
+- GSSOC'26 Contributor
+- Chess Player
+- Skilled in: Java,Python,C,HTML,CSS
+###  Currently Learning
+- Data Structures & Algort=ithms
+- Full Stack
 
 ---
 
 ## 🛠️ Tech Stack
 
-## 💻 Primary Languages
+*💻 Primary Languages*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=c&logoColor=white)
 
-**Web**
+*Web*
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Tools & Platforms**
+*Tools & Platforms*
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-## 🤖 AI Tools
+*🤖 AI Tools*
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ---
 
-## Let's Connect!
-
-* **Currently:** Building projects for my **Oasis Infobyte** internship and preparing for **GSSoC '26**.
-* **Open to:** Collaborative open-source projects and Internships.
-* **Fun Fact:** I analyze code logic with the same focus I use for a chess endgame.
-
 <p align="center">
   <b>"Small steps lead to big wins."</b>
 </p>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
